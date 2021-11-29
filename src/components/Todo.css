@@ -1,0 +1,17 @@
+
+
+
+.todo{
+
+    background-color: #5444e6;
+  width: 45%;
+  text-align: left;
+  margin: 4px 0;
+  padding-left: 8px;
+  cursor: pointer;
+}
+
+.todo.task{
+    background-color: #7728dd;
+    text-decoration: line-through;
+} 
